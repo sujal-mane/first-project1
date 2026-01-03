@@ -1,2 +1,2 @@
 # first-project1
-this is my first project.cs
+this is my first project.css
